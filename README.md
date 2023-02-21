@@ -2,18 +2,23 @@
 ## Applying github commands :
 
 1- creating local repository :
+	
 	git init
 
 2- linking existing repo to local repo :
+	
 	git remote add origin git@github.com:AhmedS1ayed/Siemens-Diploma-Task-1-Version-Control-Systems.git
 
 3- going to main branch :
+
 	git branch
-	git checkout main
+	git checkout main 
 
 4- writing main and sum function.
 
-5- git add *
+5- add files :
+	
+	git add *
 
 6- commit in the local repo.
 
@@ -25,9 +30,9 @@
 
 	git checkout -b First_branch
 
-9- writing avg function code , add ,commit , push .
+9- writing avg function code , add ,commit , push :
 
-git push origin First_branch
+	git push origin First_branch
 
 10- creating new branch Second_branch , writing min function code , add , commit , push.
 
@@ -43,7 +48,7 @@ git push origin First_branch
 
 14- going to Second_branch :
 	
-git checkout Second_branch
+	git checkout Second_branch
 
 15- rebase with main
 
