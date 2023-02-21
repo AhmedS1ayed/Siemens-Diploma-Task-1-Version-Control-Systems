@@ -1,4 +1,7 @@
 # Siemens-Diploma-Task-1-Version-Control-Systems
+## Note : 
+I just realized it could have been better if i rebased in main from second branch so that it becomes very clear from the first look what the second branch was responsible for.
+
 ## Applying github commands :
 
 1- creating local repository :
